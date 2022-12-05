@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+}
+h2{
+    font-family:fantasy;
+}
+.nav{
+    font-size: 3vmin;
+    gap:20px;
+    font-family:'Times New Roman', Times, serif;
+}
